@@ -3,10 +3,9 @@
 
 ## Descripción
 
-Este es un juego sencillo desarrollado con Pygame donde controlas un cohete que debe disparar a enemigos (platillos voladores y asteroides) que descienden por la pantalla. El objetivo es eliminar enemigos para ganar puntos mientras evitas que te toquen, ya que cada colisión reduce tus vidas. El juego termina cuando alcanzas 10 puntos (victoria) o cuando pierdes todas las vidas o dejan pasar demasiados enemigos (derrota).
+Este es un juego sencillo desarrollado con Pygame donde controlas un cohete que debe disparar a enemigos que descienden por la pantalla. El objetivo es eliminar enemigos para ganar puntos mientras evitas que te toquen, ya que cada colisión reduce tus vidas. El juego termina cuando alcanzas 10 puntos (victoria) o cuando pierdes todas las vidas o dejan pasar demasiados enemigos (derrota).
 
 ## Controles
-
 - **A**: Mover el cohete hacia la izquierda.
 - **D**: Mover el cohete hacia la derecha.
 - **Espacio**: Disparar un proyectil.
